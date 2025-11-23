@@ -3,7 +3,7 @@
         <TSName>All_Levels_Unlocked</TSName>
         <TSAuthor>AuriRex</TSAuthor>
         <TSVersion>1.0.0</TSVersion> <!-- TSVersion empty = GitInfo used instead (if available; check nuget) -->
-        <TSWebsite>https://github.com/Link/To/Repo/</TSWebsite>
+        <TSWebsite>https://github.com/AuriRex/GTFO_AllLevels</TSWebsite>
         <TSDescription>Unlocks all levels.</TSDescription>
     </PropertyGroup>
     <ItemGroup>
