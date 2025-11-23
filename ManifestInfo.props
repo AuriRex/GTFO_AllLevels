@@ -1,0 +1,14 @@
+<Project>
+    <PropertyGroup>
+        <TSName>All_Levels_Unlocked</TSName>
+        <TSAuthor>AuriRex</TSAuthor>
+        <TSVersion>1.0.0</TSVersion> <!-- TSVersion empty = GitInfo used instead (if available; check nuget) -->
+        <TSWebsite>https://github.com/Link/To/Repo/</TSWebsite>
+        <TSDescription>Unlocks all levels.</TSDescription>
+    </PropertyGroup>
+    <ItemGroup>
+        <!-- Add the Dependency strings here, one for each dependency -->
+        <TSDependencyStrings Include="BepInEx-BepInExPack_GTFO-3.2.2" InProject="false" />
+        <!-- <TSDependencyStrings Include="Some-Other-Dependency-1.2.3" InProject="false" /> -->
+    </ItemGroup>
+</Project>
